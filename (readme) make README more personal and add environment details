@@ -1,0 +1,27 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 126c033..e7d10b9 100644[m
+Binary files a/README.md and b/README.md differ
+[1mdiff --git a/sql/create_tables.sql b/sql/create_tables.sql[m
+[1mnew file mode 100644[m
+[1mindex 0000000..86c21d3[m
+Binary files /dev/null and b/sql/create_tables.sql differ
+[1mdiff --git a/sql/import_copy_commands.sql b/sql/import_copy_commands.sql[m
+[1mnew file mode 100644[m
+[1mindex 0000000..44ee27b[m
+Binary files /dev/null and b/sql/import_copy_commands.sql differ
+[1mdiff --git a/sql/views/v_category_perf.sql b/sql/views/v_category_perf.sql[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e994b96[m
+Binary files /dev/null and b/sql/views/v_category_perf.sql differ
+[1mdiff --git a/sql/views/v_customer_cohorts.sql b/sql/views/v_customer_cohorts.sql[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7536a46[m
+Binary files /dev/null and b/sql/views/v_customer_cohorts.sql differ
+[1mdiff --git a/sql/views/v_daily_sales.sql b/sql/views/v_daily_sales.sql[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fa32313[m
+Binary files /dev/null and b/sql/views/v_daily_sales.sql differ
+[1mdiff --git a/sql/views/v_marketing_roi.sql b/sql/views/v_marketing_roi.sql[m
+[1mnew file mode 100644[m
+[1mindex 0000000..da06f54[m
+Binary files /dev/null and b/sql/views/v_marketing_roi.sql differ
