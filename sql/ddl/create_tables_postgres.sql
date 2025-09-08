@@ -2,7 +2,6 @@
 -- OmniCart Analytics Schema (PostgreSQL)
 -- ========================
 
--- Customers
 CREATE TABLE customers (
     customer_id TEXT PRIMARY KEY,
     region TEXT,
@@ -14,7 +13,6 @@ CREATE TABLE customers (
     first_order_date DATE
 );
 
--- Inventory
 CREATE TABLE inventory (
     product_id TEXT,
     warehouse_id TEXT,
@@ -24,7 +22,6 @@ CREATE TABLE inventory (
     PRIMARY KEY (product_id, warehouse_id)
 );
 
--- Marketing Campaigns
 CREATE TABLE marketing_campaigns (
     campaign_id TEXT PRIMARY KEY,
     channel TEXT,
@@ -34,7 +31,6 @@ CREATE TABLE marketing_campaigns (
     spend NUMERIC
 );
 
--- Orders
 CREATE TABLE orders (
     order_id TEXT PRIMARY KEY,
     customer_id TEXT REFERENCES customers(customer_id),
@@ -48,7 +44,6 @@ CREATE TABLE orders (
     ship_city TEXT
 );
 
--- Order Items
 CREATE TABLE order_items (
     order_item_id TEXT PRIMARY KEY,
     order_id TEXT REFERENCES orders(order_id),
@@ -59,7 +54,6 @@ CREATE TABLE order_items (
     estimated_cost NUMERIC
 );
 
--- Payments
 CREATE TABLE payments (
     payment_id TEXT PRIMARY KEY,
     order_id TEXT REFERENCES orders(order_id),
@@ -69,7 +63,6 @@ CREATE TABLE payments (
     shipping_fee NUMERIC
 );
 
--- Products
 CREATE TABLE products (
     product_id TEXT PRIMARY KEY,
     category TEXT,
@@ -80,7 +73,6 @@ CREATE TABLE products (
     launch_date DATE
 );
 
--- Returns
 CREATE TABLE returns (
     return_id TEXT PRIMARY KEY,
     order_item_id TEXT REFERENCES order_items(order_item_id),
@@ -89,7 +81,6 @@ CREATE TABLE returns (
     refund_amount NUMERIC
 );
 
--- Suppliers
 CREATE TABLE suppliers (
     supplier_id TEXT PRIMARY KEY,
     supplier_name TEXT,
@@ -97,7 +88,6 @@ CREATE TABLE suppliers (
     rating NUMERIC
 );
 
--- Web Sessions
 CREATE TABLE web_sessions (
     session_id TEXT PRIMARY KEY,
     customer_id TEXT REFERENCES customers(customer_id),
