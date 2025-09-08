@@ -1,0 +1,31 @@
+Step 1: Create empty database in PostgreSQL:
+Type this in bash: createdb omnicart
+
+Step 2: Create schema from DDL:
+Go to this file in the repo: sql/ddl/create_tables_postgres.sql
+Copy the code blocks from the sql file then paste them on pgsql.
+
+Step 3: Then run in bash:
+psql -d omnicart -f sql/ddl/create_tables_postgres.sql
+This executes the CREATE TABLE ... code and builds the empty tables.
+
+Step 4: Step 3: Import CSVs into those tables:
+After the schema exists, you use \copy commands to load the actual rows into each table.
+Paste this in pgsql:
+\copy customers FROM 'data/customers.csv' CSV HEADER;
+\copy inventory FROM 'data/inventory.csv' CSV HEADER;
+\copy marketing_campaigns FROM 'data/marketing_campaigns.csv' CSV HEADER;
+\copy orders FROM 'data/orders.csv' CSV HEADER;
+\copy order_items FROM 'data/order_items.csv' CSV HEADER;
+\copy payments FROM 'data/payments.csv' CSV HEADER;
+\copy products FROM 'data/products.csv' CSV HEADER;
+\copy returns FROM 'data/returns.csv' CSV HEADER;
+\copy suppliers FROM 'data/suppliers.csv' CSV HEADER;
+\copy web_sessions FROM 'data/web_sessions.csv' CSV HEADER;
+
+Step 5: analysis:
+
+Simple flow is: 1. Run DDL → 2. Import CSVs → 3. Start analysis.
+
+
+
