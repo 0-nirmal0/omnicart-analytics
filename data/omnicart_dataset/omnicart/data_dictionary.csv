@@ -1,0 +1,11 @@
+table,description
+customers,"Customer master: id, region/state/city, gender, age_bracket, signup_source, first_order_date"
+products,"Product master: category, subcategory, brand, unit_cost, unit_price, launch_date"
+suppliers,Suppliers: lead_time_days and rating
+inventory,"Inventory snapshot by product & warehouse: current_stock, safety_stock, primary_supplier_id"
+marketing_campaigns,Campaign calendar with spend and date range
+orders,"Orders header: customer, order_date, channel, device, delivery_days, status, shipping location, optional campaign"
+order_items,"Order line items: product, quantity, price after discount, estimated_cost"
+payments,"Payments per order: method, status, amount, shipping_fee"
+returns,"Returns mapped to order_items: date, reason, refund_amount"
+web_sessions,"Web analytics sessions: source/medium/campaign, device, pages_viewed, duration, bounce flag"
