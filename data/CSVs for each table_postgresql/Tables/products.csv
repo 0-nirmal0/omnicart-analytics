@@ -1,0 +1,801 @@
+product_id,category,subcategory,brand,unit_cost,unit_price,launch_date
+P00000,Books,Fiction,Everpeak,141.08,160.34,2023-05-08
+P00001,Toys,Action Figures,UrbanLeaf,179.45,321.37,2023-02-20
+P00002,Sports,Outdoor,TrueNorth,5012.93,5830.18,2023-05-28
+P00003,Home,Decor,UrbanLeaf,5092.38,5885.36,2023-03-23
+P00004,Grocery,Snacks,Everpeak,450.02,813.3,2023-02-16
+P00005,Toys,Action Figures,Everpeak,1849.3,3336.96,2023-11-11
+P00006,Fashion,Menswear,Quantica,2784.46,4968.16,2023-05-15
+P00007,Grocery,Staples,Everpeak,1187.66,1407.93,2023-04-27
+P00008,Home,Kitchen,BluePine,8696.22,12192.57,2023-08-31
+P00009,Fashion,Womenswear,TrueNorth,3009.91,3779.61,2024-02-22
+P00010,Toys,STEM,Solace,2302.18,2839.96,2024-02-06
+P00011,Home,Appliances,Skytone,4073.86,6441.94,2023-06-08
+P00012,Beauty,Makeup,UrbanLeaf,1460.74,2383.95,2023-06-25
+P00013,Beauty,Skincare,Quantica,2054.56,2434.79,2024-03-27
+P00014,Home,Furniture,Solace,488.85,821.4,2023-03-31
+P00015,Home,Furniture,Auralis,5583.05,9698.28,2023-02-02
+P00016,Fashion,Footwear,TrueNorth,1833.85,2921.36,2023-10-11
+P00017,Grocery,Snacks,Everpeak,724.36,1074.98,2023-10-11
+P00018,Books,Self-Help,TrueNorth,1336.66,2126.41,2023-03-29
+P00019,Home,Decor,Quantica,11013.77,14951.88,2023-01-05
+P00020,Grocery,Snacks,BluePine,634.32,757.1,2023-01-26
+P00021,Home,Appliances,TrueNorth,3827.76,4438.57,2023-08-22
+P00022,Grocery,Staples,Vistaro,157.93,194.28,2023-01-20
+P00023,Electronics,Accessories,TrueNorth,4112.83,5195.31,2023-06-19
+P00024,Beauty,Skincare,Nimbus,3424.29,5793.41,2024-02-22
+P00025,Books,Self-Help,Solace,446.83,563.76,2023-01-16
+P00026,Home,Appliances,UrbanLeaf,10063.7,11743.48,2023-06-12
+P00027,Grocery,Snacks,Quantica,426.51,533.36,2025-07-25
+P00028,Sports,Fitness,Vistaro,5527.47,9154.32,2023-06-19
+P00029,Sports,Athleisure,TrueNorth,6997.29,10490.87,2024-08-07
+P00030,Home,Kitchen,BluePine,3031.98,4435.68,2023-08-23
+P00031,Electronics,Laptops,TrueNorth,14439.79,24486.83,2025-02-19
+P00032,Home,Decor,Skytone,5677.04,7558.41,2023-05-08
+P00033,Sports,Athleisure,Nimbus,6854.73,10277.02,2023-01-10
+P00034,Fashion,Footwear,Nimbus,2450.13,2802.42,2023-10-29
+P00035,Home,Decor,Vistaro,3712.58,5126.19,2023-11-17
+P00036,Toys,STEM,Auralis,349.06,421.73,2023-04-12
+P00037,Home,Furniture,Zenbyte,2827.98,3679.9,2026-06-15
+P00038,Grocery,Snacks,UrbanLeaf,976.34,1659.56,2024-07-07
+P00039,Sports,Athleisure,Zenbyte,3353.81,4288.95,2023-02-23
+P00040,Home,Decor,BluePine,8198.63,12502.72,2023-02-23
+P00041,Books,Fiction,Quantica,738.4,1035.94,2023-05-31
+P00042,Sports,Fitness,Solace,8070.8,10698.11,2024-04-23
+P00043,Grocery,Staples,Quantica,577.09,910.67,2024-06-16
+P00044,Electronics,Mobiles,Solace,47015.95,54593.18,2023-02-16
+P00045,Sports,Fitness,Quantica,4336.86,5879.79,2023-07-24
+P00046,Electronics,Audio,Everpeak,47847.99,56765.48,2023-05-01
+P00047,Electronics,Wearables,UrbanLeaf,7461.58,12756.05,2024-10-30
+P00048,Home,Kitchen,Auralis,6204.65,7336.91,2023-11-04
+P00049,Books,Self-Help,Vistaro,1364.38,1788.28,2024-03-12
+P00050,Beauty,Fragrance,Solace,4077.06,5858.62,2023-06-16
+P00051,Toys,Board Games,BluePine,1298.95,1890.45,2023-04-26
+P00052,Books,Non-Fiction,BluePine,737.86,860.15,2023-02-28
+P00053,Beauty,Fragrance,Everpeak,916.69,1307.45,2023-07-04
+P00054,Home,Furniture,Vistaro,6952.07,9246.0,2023-04-20
+P00055,Home,Furniture,Skytone,9081.3,12563.3,2025-05-30
+P00056,Beauty,Fragrance,Nimbus,1811.71,2721.76,2023-01-11
+P00057,Electronics,Wearables,Everpeak,23793.68,39720.39,2024-07-25
+P00058,Home,Kitchen,Auralis,11772.22,14960.61,2023-06-21
+P00059,Books,Fiction,BluePine,839.11,1209.19,2023-02-04
+P00060,Books,Comics,BluePine,1253.59,2161.95,2023-04-30
+P00061,Home,Kitchen,Auralis,3686.11,4422.32,2023-08-19
+P00062,Fashion,Womenswear,Veloria,985.0,1698.71,2023-08-11
+P00063,Beauty,Haircare,BluePine,2731.01,3927.26,2023-01-10
+P00064,Home,Appliances,TrueNorth,9418.43,13999.26,2025-10-22
+P00065,Fashion,Accessories,TrueNorth,1794.5,2779.31,2023-01-12
+P00066,Fashion,Womenswear,Veloria,2028.82,3232.33,2023-10-29
+P00067,Home,Appliances,Solace,9358.41,11620.64,2025-01-10
+P00068,Books,Non-Fiction,Veloria,2127.95,2488.68,2024-07-05
+P00069,Books,Comics,Nimbus,541.74,830.21,2023-03-24
+P00070,Electronics,Accessories,Quantica,49193.4,58113.63,2023-05-18
+P00071,Beauty,Makeup,Vistaro,2050.04,2654.08,2023-07-27
+P00072,Home,Kitchen,Auralis,1432.77,2226.52,2025-02-27
+P00073,Grocery,Snacks,Nimbus,965.17,1618.89,2023-03-31
+P00074,Grocery,Personal Care,Nimbus,484.88,683.53,2023-01-10
+P00075,Fashion,Accessories,Auralis,3944.39,4737.72,2024-04-11
+P00076,Sports,Outdoor,Nimbus,777.65,1277.91,2023-02-02
+P00077,Electronics,Mobiles,Veloria,2397.23,3730.7,2023-03-07
+P00078,Toys,Action Figures,TrueNorth,3017.1,4329.8,2023-01-24
+P00079,Grocery,Personal Care,BluePine,1364.76,1867.65,2023-09-23
+P00080,Fashion,Footwear,Quantica,1772.79,2604.9,2023-03-14
+P00081,Toys,Puzzles,Nimbus,926.74,1322.11,2023-04-27
+P00082,Grocery,Beverages,Everpeak,533.5,810.72,2023-08-23
+P00083,Grocery,Snacks,BluePine,107.2,139.54,2023-04-17
+P00084,Electronics,Audio,Veloria,5749.98,7168.19,2023-01-11
+P00085,Electronics,Laptops,Veloria,38076.14,59780.16,2023-01-19
+P00086,Books,Fiction,Skytone,126.98,197.59,2023-04-26
+P00087,Electronics,Audio,TrueNorth,27340.4,47527.61,2023-07-02
+P00088,Electronics,Laptops,Nimbus,7739.77,12445.84,2024-09-15
+P00089,Beauty,Skincare,Skytone,2321.34,3544.35,2023-03-24
+P00090,Grocery,Staples,UrbanLeaf,506.21,793.98,2024-06-09
+P00091,Beauty,Makeup,Skytone,2371.85,3829.58,2023-02-07
+P00092,Grocery,Beverages,BluePine,326.38,463.32,2023-02-08
+P00093,Electronics,Audio,Zenbyte,30289.92,38647.21,2023-11-10
+P00094,Grocery,Personal Care,Skytone,1181.89,1625.82,2023-02-09
+P00095,Beauty,Haircare,Auralis,2172.86,3933.63,2023-07-14
+P00096,Home,Appliances,Solace,722.07,825.89,2023-03-19
+P00097,Grocery,Personal Care,Nimbus,264.12,431.78,2024-01-08
+P00098,Sports,Equipment,TrueNorth,2569.34,3325.84,2023-02-23
+P00099,Toys,Board Games,Solace,3902.01,5464.04,2023-08-02
+P00100,Books,Non-Fiction,Zenbyte,756.66,1126.38,2023-04-08
+P00101,Sports,Equipment,Veloria,2866.4,4274.24,2023-06-28
+P00102,Electronics,Wearables,Veloria,15510.6,18671.39,2023-04-02
+P00103,Fashion,Womenswear,Vistaro,1474.83,2192.95,2024-05-06
+P00104,Electronics,Mobiles,Zenbyte,2891.97,3616.81,2023-02-13
+P00105,Sports,Equipment,Auralis,4559.74,6176.84,2023-09-19
+P00106,Beauty,Makeup,Vistaro,1072.31,1568.13,2024-03-06
+P00107,Beauty,Makeup,Zenbyte,3087.1,5477.46,2023-10-24
+P00108,Electronics,Laptops,TrueNorth,43742.2,54500.29,2023-02-14
+P00109,Electronics,Laptops,Solace,1215.58,1879.55,2024-07-08
+P00110,Home,Decor,TrueNorth,2041.54,3047.95,2023-10-02
+P00111,Grocery,Snacks,TrueNorth,1238.99,1858.85,2024-12-04
+P00112,Fashion,Footwear,Everpeak,1417.76,1854.43,2023-06-06
+P00113,Home,Kitchen,Everpeak,5222.19,5937.48,2023-09-21
+P00114,Toys,Puzzles,Solace,2880.86,4547.54,2023-03-26
+P00115,Sports,Athleisure,UrbanLeaf,4879.95,6410.79,2023-01-04
+P00116,Fashion,Womenswear,Vistaro,2433.35,2899.75,2023-01-17
+P00117,Grocery,Beverages,BluePine,1335.66,1523.22,2024-09-30
+P00118,Books,Comics,Quantica,756.09,1360.85,2023-01-12
+P00119,Electronics,Accessories,Solace,27252.0,35636.48,2024-01-06
+P00120,Sports,Outdoor,Veloria,3594.07,4526.31,2024-01-25
+P00121,Books,Comics,Auralis,901.05,1030.43,2023-04-09
+P00122,Beauty,Makeup,Veloria,3167.5,3978.96,2023-04-24
+P00123,Books,Self-Help,Skytone,194.31,283.28,2023-10-10
+P00124,Fashion,Womenswear,Solace,1618.98,2183.9,2023-01-19
+P00125,Fashion,Womenswear,TrueNorth,969.32,1169.32,2023-05-12
+P00126,Fashion,Menswear,Zenbyte,1553.41,2740.43,2023-01-16
+P00127,Sports,Outdoor,Quantica,5168.7,7318.46,2023-05-26
+P00128,Grocery,Snacks,Auralis,1423.46,1752.66,2023-01-09
+P00129,Books,Self-Help,Skytone,1325.23,1729.84,2023-01-04
+P00130,Beauty,Makeup,UrbanLeaf,1260.65,1620.54,2023-07-11
+P00131,Books,Comics,TrueNorth,413.18,555.58,2023-05-12
+P00132,Electronics,Accessories,Skytone,15844.89,28365.39,2023-01-10
+P00133,Beauty,Fragrance,TrueNorth,3930.43,5713.16,2023-11-14
+P00134,Sports,Equipment,Everpeak,3896.23,5335.59,2024-02-27
+P00135,Beauty,Fragrance,Vistaro,4319.62,5391.22,2023-02-14
+P00136,Toys,Action Figures,Nimbus,1779.61,3052.98,2023-03-19
+P00137,Home,Furniture,Solace,6388.52,9884.61,2023-10-29
+P00138,Sports,Fitness,UrbanLeaf,5154.06,6897.92,2024-11-13
+P00139,Grocery,Staples,Veloria,794.41,1242.09,2023-03-26
+P00140,Grocery,Snacks,TrueNorth,1078.24,1356.4,2023-02-26
+P00141,Toys,Action Figures,TrueNorth,3066.17,4331.12,2023-08-18
+P00142,Toys,Action Figures,Zenbyte,1178.01,1726.22,2023-04-28
+P00143,Home,Decor,TrueNorth,7115.14,9075.32,2023-09-09
+P00144,Books,Non-Fiction,Skytone,1623.35,2043.93,2023-03-13
+P00145,Toys,Action Figures,Zenbyte,2613.37,4017.75,2023-09-01
+P00146,Home,Appliances,Skytone,7755.61,10335.67,2023-04-11
+P00147,Beauty,Fragrance,Quantica,1358.88,1640.68,2023-08-24
+P00148,Beauty,Makeup,Solace,396.6,695.15,2023-12-17
+P00149,Grocery,Beverages,Solace,1000.22,1722.14,2023-04-16
+P00150,Books,Self-Help,Zenbyte,1771.37,2139.75,2023-01-05
+P00151,Books,Comics,TrueNorth,1705.92,1994.49,2025-06-12
+P00152,Books,Non-Fiction,BluePine,1095.9,1735.77,2023-02-26
+P00153,Electronics,Mobiles,Vistaro,35426.95,40921.13,2023-12-30
+P00154,Sports,Athleisure,BluePine,1484.7,2284.6,2023-02-20
+P00155,Fashion,Menswear,Zenbyte,381.16,528.58,2023-02-07
+P00156,Books,Non-Fiction,Auralis,1494.34,1864.19,2023-03-25
+P00157,Home,Decor,Vistaro,6791.77,8641.36,2023-04-05
+P00158,Toys,STEM,Nimbus,4039.78,4921.39,2023-01-18
+P00159,Beauty,Haircare,Nimbus,1532.37,2070.89,2023-06-06
+P00160,Beauty,Haircare,Everpeak,1442.22,2328.68,2023-01-09
+P00161,Fashion,Accessories,Skytone,1713.12,2272.48,2023-07-28
+P00162,Books,Fiction,Vistaro,1722.55,2420.75,2025-05-16
+P00163,Beauty,Makeup,Veloria,1668.44,1918.16,2023-02-06
+P00164,Electronics,Mobiles,Veloria,19091.49,24614.81,2023-01-21
+P00165,Electronics,Audio,Auralis,20601.86,26810.62,2023-01-27
+P00166,Sports,Outdoor,Everpeak,2211.59,3764.57,2023-03-13
+P00167,Electronics,Mobiles,Solace,29335.67,43266.39,2023-04-22
+P00168,Sports,Equipment,BluePine,2347.92,3096.6,2023-06-29
+P00169,Sports,Athleisure,TrueNorth,3563.05,4403.81,2023-01-25
+P00170,Books,Comics,BluePine,1629.15,2217.45,2023-07-16
+P00171,Toys,Puzzles,Solace,1787.35,3018.9,2023-06-08
+P00172,Grocery,Staples,Everpeak,567.71,987.52,2023-09-12
+P00173,Books,Fiction,Solace,338.51,412.14,2023-11-06
+P00174,Sports,Outdoor,Skytone,7056.5,10079.46,2023-06-11
+P00175,Electronics,Accessories,Skytone,28277.57,38468.08,2023-08-17
+P00176,Toys,Action Figures,BluePine,441.57,784.62,2023-10-05
+P00177,Books,Non-Fiction,UrbanLeaf,1266.78,1633.26,2023-02-05
+P00178,Fashion,Menswear,Veloria,1432.44,2164.85,2023-07-20
+P00179,Grocery,Snacks,Skytone,539.48,796.15,2023-12-03
+P00180,Beauty,Skincare,Zenbyte,222.15,303.77,2023-10-12
+P00181,Fashion,Footwear,Skytone,1876.33,2821.49,2023-05-26
+P00182,Toys,STEM,TrueNorth,5130.88,5952.47,2023-05-16
+P00183,Grocery,Beverages,Nimbus,188.83,228.26,2023-04-07
+P00184,Home,Decor,Solace,1453.54,2586.44,2024-08-09
+P00185,Sports,Outdoor,Auralis,2831.03,4232.48,2023-06-02
+P00186,Toys,Board Games,Solace,3311.67,4921.18,2023-01-01
+P00187,Grocery,Snacks,Zenbyte,974.51,1538.19,2023-05-23
+P00188,Fashion,Accessories,Nimbus,2630.69,4534.01,2023-05-29
+P00189,Books,Self-Help,Quantica,870.14,1578.77,2023-03-12
+P00190,Grocery,Personal Care,UrbanLeaf,559.84,683.0,2024-03-28
+P00191,Beauty,Fragrance,BluePine,3807.57,4505.26,2025-03-11
+P00192,Books,Fiction,UrbanLeaf,1119.4,1867.76,2023-01-10
+P00193,Electronics,Wearables,Solace,20159.45,31040.21,2023-06-06
+P00194,Home,Kitchen,Vistaro,6161.85,10099.72,2023-04-04
+P00195,Home,Appliances,UrbanLeaf,10555.54,12775.43,2023-03-05
+P00196,Grocery,Staples,Zenbyte,102.2,134.52,2023-04-06
+P00197,Fashion,Footwear,Everpeak,2701.26,4065.3,2023-04-25
+P00198,Home,Decor,Vistaro,8527.55,9886.08,2023-02-09
+P00199,Fashion,Footwear,Quantica,2144.97,3209.35,2023-10-25
+P00200,Home,Appliances,Everpeak,3993.12,6224.1,2023-08-19
+P00201,Fashion,Womenswear,TrueNorth,3902.88,4824.29,2023-06-10
+P00202,Grocery,Personal Care,Everpeak,673.44,1223.44,2023-02-14
+P00203,Toys,Board Games,Skytone,2458.72,3210.83,2023-05-30
+P00204,Grocery,Personal Care,Solace,434.43,502.65,2023-06-19
+P00205,Electronics,Wearables,Auralis,17340.07,21147.48,2023-03-20
+P00206,Grocery,Staples,Everpeak,82.74,146.1,2023-06-24
+P00207,Beauty,Haircare,Veloria,3639.96,4916.4,2024-04-12
+P00208,Beauty,Haircare,Skytone,2056.19,2977.41,2023-05-16
+P00209,Toys,Board Games,Zenbyte,3076.71,4439.68,2023-03-05
+P00210,Grocery,Personal Care,Vistaro,226.98,333.8,2023-05-15
+P00211,Fashion,Womenswear,BluePine,495.14,660.68,2023-05-25
+P00212,Electronics,Accessories,Everpeak,42635.98,49873.25,2023-03-27
+P00213,Electronics,Wearables,Skytone,33051.5,49625.38,2023-03-10
+P00214,Sports,Athleisure,Zenbyte,7308.7,10190.42,2023-05-18
+P00215,Grocery,Snacks,Solace,1109.0,1954.35,2023-03-30
+P00216,Toys,Board Games,Zenbyte,751.2,972.39,2023-01-07
+P00217,Electronics,Mobiles,Zenbyte,2034.77,2714.92,2024-07-20
+P00218,Home,Decor,Veloria,9323.4,13108.95,2023-06-16
+P00219,Beauty,Makeup,UrbanLeaf,149.41,184.71,2023-01-06
+P00220,Sports,Athleisure,Vistaro,7594.01,9128.11,2024-02-11
+P00221,Beauty,Haircare,Veloria,3147.56,3913.45,2023-02-04
+P00222,Home,Decor,BluePine,5551.07,9526.08,2023-09-11
+P00223,Toys,STEM,Nimbus,1502.01,2189.0,2023-03-16
+P00224,Grocery,Staples,UrbanLeaf,1264.72,1998.34,2023-07-10
+P00225,Grocery,Personal Care,Everpeak,591.75,875.36,2023-03-25
+P00226,Home,Furniture,Solace,542.96,724.31,2024-06-17
+P00227,Beauty,Makeup,Everpeak,3250.53,3813.86,2024-03-08
+P00228,Home,Appliances,TrueNorth,3400.08,4252.46,2023-03-12
+P00229,Grocery,Staples,UrbanLeaf,823.18,1175.54,2023-05-16
+P00230,Sports,Athleisure,Nimbus,6743.48,8695.18,2023-11-01
+P00231,Sports,Outdoor,TrueNorth,1461.86,2351.26,2023-08-07
+P00232,Grocery,Staples,Solace,996.73,1382.26,2023-08-08
+P00233,Electronics,Accessories,Solace,3694.64,6168.13,2023-01-12
+P00234,Toys,Action Figures,UrbanLeaf,703.55,1020.14,2023-09-26
+P00235,Grocery,Beverages,Veloria,114.47,198.69,2024-12-27
+P00236,Books,Comics,Auralis,1135.14,1573.98,2023-09-28
+P00237,Fashion,Footwear,Veloria,1273.87,1776.12,2024-05-10
+P00238,Home,Furniture,Skytone,8236.79,14348.13,2023-03-02
+P00239,Fashion,Womenswear,Quantica,1028.69,1315.85,2023-04-27
+P00240,Beauty,Makeup,Auralis,1503.85,1987.88,2023-07-13
+P00241,Beauty,Skincare,UrbanLeaf,2938.29,4610.78,2023-12-03
+P00242,Home,Decor,Skytone,668.16,773.11,2023-11-08
+P00243,Toys,Puzzles,Everpeak,2252.7,3268.51,2023-01-11
+P00244,Toys,Board Games,BluePine,1100.13,1643.59,2024-01-28
+P00245,Sports,Athleisure,Zenbyte,7884.0,11028.71,2023-06-07
+P00246,Grocery,Staples,Vistaro,1176.44,1674.45,2023-05-26
+P00247,Grocery,Beverages,TrueNorth,1124.01,1814.91,2024-04-24
+P00248,Sports,Equipment,Everpeak,2017.29,2853.49,2024-01-05
+P00249,Grocery,Personal Care,Auralis,164.78,266.74,2023-02-10
+P00250,Home,Appliances,Auralis,8258.08,12179.35,2023-02-12
+P00251,Sports,Equipment,Zenbyte,3823.88,5838.24,2023-07-20
+P00252,Electronics,Mobiles,UrbanLeaf,15451.52,26493.96,2023-05-27
+P00253,Grocery,Beverages,Veloria,890.78,1036.44,2024-05-25
+P00254,Electronics,Mobiles,UrbanLeaf,8369.9,11861.32,2023-11-22
+P00255,Electronics,Wearables,UrbanLeaf,9956.97,14104.02,2023-02-25
+P00256,Beauty,Skincare,UrbanLeaf,3187.32,4594.22,2024-01-23
+P00257,Books,Non-Fiction,TrueNorth,1499.79,2252.21,2023-09-16
+P00258,Grocery,Staples,Veloria,844.25,1120.98,2023-07-28
+P00259,Home,Appliances,BluePine,10136.43,13651.84,2023-03-17
+P00260,Fashion,Menswear,BluePine,1520.13,2064.5,2023-01-16
+P00261,Grocery,Snacks,Veloria,732.62,1021.96,2023-06-27
+P00262,Books,Comics,Skytone,679.46,1002.63,2024-02-26
+P00263,Sports,Athleisure,Quantica,7890.76,11479.01,2023-01-09
+P00264,Books,Comics,Quantica,1570.88,2427.7,2023-03-23
+P00265,Grocery,Staples,BluePine,280.58,336.96,2023-02-06
+P00266,Books,Fiction,UrbanLeaf,149.71,257.1,2023-06-05
+P00267,Electronics,Wearables,Nimbus,25754.0,42447.63,2023-11-10
+P00268,Fashion,Womenswear,Everpeak,2488.02,4436.51,2023-04-26
+P00269,Home,Furniture,Quantica,9151.51,14269.93,2023-01-15
+P00270,Grocery,Beverages,Quantica,901.33,1379.48,2024-04-17
+P00271,Electronics,Mobiles,Everpeak,16017.97,23316.53,2023-01-03
+P00272,Sports,Fitness,Vistaro,3597.08,4185.28,2023-05-28
+P00273,Toys,Action Figures,Nimbus,4004.22,4932.07,2023-05-30
+P00274,Toys,Action Figures,Vistaro,1128.73,1343.45,2023-05-24
+P00275,Sports,Equipment,Skytone,841.28,1226.04,2023-01-07
+P00276,Sports,Athleisure,UrbanLeaf,1081.68,1548.57,2023-06-29
+P00277,Books,Comics,Zenbyte,150.67,218.12,2023-12-31
+P00278,Beauty,Skincare,Quantica,3661.06,4375.55,2023-06-29
+P00279,Electronics,Mobiles,UrbanLeaf,35425.95,40826.77,2024-01-22
+P00280,Sports,Athleisure,Veloria,6534.92,10903.33,2023-12-15
+P00281,Books,Self-Help,TrueNorth,1275.29,1900.67,2023-08-16
+P00282,Fashion,Accessories,Auralis,2692.26,4070.7,2023-03-21
+P00283,Fashion,Footwear,Nimbus,1170.63,2004.61,2023-01-04
+P00284,Books,Non-Fiction,BluePine,1012.47,1792.23,2023-09-02
+P00285,Toys,Action Figures,BluePine,3895.4,5964.39,2023-01-07
+P00286,Home,Furniture,TrueNorth,9792.14,12457.05,2023-04-29
+P00287,Books,Comics,Vistaro,699.12,883.42,2023-04-23
+P00288,Home,Kitchen,Nimbus,3937.18,5867.65,2023-12-02
+P00289,Fashion,Womenswear,Nimbus,1316.23,1626.03,2023-08-08
+P00290,Home,Decor,Veloria,5915.82,10153.7,2023-01-04
+P00291,Fashion,Footwear,Nimbus,3040.87,4294.6,2023-07-14
+P00292,Books,Fiction,Zenbyte,268.89,364.72,2023-02-21
+P00293,Toys,STEM,Solace,1168.4,1637.22,2023-12-01
+P00294,Beauty,Makeup,Solace,3083.13,4501.12,2023-06-05
+P00295,Toys,Action Figures,Veloria,1481.22,2649.74,2023-06-14
+P00296,Beauty,Makeup,Solace,1315.22,1635.7,2023-07-09
+P00297,Sports,Outdoor,Solace,5630.73,6417.08,2023-12-21
+P00298,Grocery,Staples,Everpeak,941.48,1423.04,2023-01-15
+P00299,Home,Kitchen,TrueNorth,3212.11,5622.22,2024-02-01
+P00300,Home,Decor,Zenbyte,3724.68,4497.48,2023-04-30
+P00301,Sports,Equipment,UrbanLeaf,2922.81,4463.22,2024-11-09
+P00302,Sports,Fitness,Veloria,3908.1,4547.12,2024-03-31
+P00303,Grocery,Snacks,Auralis,70.13,124.0,2023-08-07
+P00304,Sports,Fitness,BluePine,9213.93,11317.76,2023-01-09
+P00305,Sports,Equipment,BluePine,4396.59,6012.06,2023-03-22
+P00306,Books,Self-Help,Zenbyte,1460.81,2400.49,2023-08-05
+P00307,Beauty,Makeup,Zenbyte,703.18,1102.72,2023-09-17
+P00308,Beauty,Makeup,Veloria,1515.6,2636.65,2023-02-06
+P00309,Fashion,Womenswear,Auralis,1274.29,1483.22,2023-11-14
+P00310,Home,Decor,Veloria,7325.99,9439.86,2023-02-05
+P00311,Sports,Outdoor,Quantica,635.01,769.73,2023-05-01
+P00312,Grocery,Staples,Auralis,422.69,532.0,2024-02-21
+P00313,Home,Kitchen,Nimbus,5033.27,7872.52,2023-01-08
+P00314,Toys,STEM,TrueNorth,1650.36,2286.21,2023-02-11
+P00315,Sports,Equipment,Auralis,1011.46,1706.24,2024-07-14
+P00316,Sports,Fitness,TrueNorth,934.65,1222.04,2024-09-27
+P00317,Toys,Board Games,Everpeak,424.93,636.5,2024-12-17
+P00318,Toys,Board Games,Auralis,4254.68,5872.61,2023-02-05
+P00319,Electronics,Wearables,Veloria,7812.4,13321.93,2024-04-30
+P00320,Toys,Board Games,Zenbyte,2324.32,3706.1,2023-09-27
+P00321,Sports,Equipment,Skytone,4882.28,8043.31,2023-08-20
+P00322,Fashion,Footwear,Auralis,2215.55,2763.21,2023-09-30
+P00323,Toys,Board Games,Veloria,2285.23,2919.61,2023-11-20
+P00324,Toys,Puzzles,Veloria,2411.55,4225.77,2023-02-06
+P00325,Books,Non-Fiction,Zenbyte,1339.47,1675.59,2024-04-12
+P00326,Toys,STEM,Auralis,485.7,732.07,2023-11-10
+P00327,Beauty,Makeup,TrueNorth,1258.14,2226.27,2024-01-16
+P00328,Electronics,Audio,Zenbyte,16440.33,18735.17,2023-03-12
+P00329,Books,Non-Fiction,Auralis,475.55,811.08,2024-11-13
+P00330,Sports,Outdoor,Skytone,814.42,1124.15,2023-06-08
+P00331,Beauty,Fragrance,Skytone,523.91,693.53,2023-03-18
+P00332,Beauty,Makeup,UrbanLeaf,2174.65,3285.93,2023-09-01
+P00333,Beauty,Skincare,Vistaro,581.15,950.02,2023-08-15
+P00334,Home,Appliances,Auralis,9782.65,13369.4,2024-03-24
+P00335,Grocery,Snacks,Vistaro,1278.19,1738.26,2023-04-06
+P00336,Electronics,Wearables,Everpeak,36108.51,56069.5,2024-06-10
+P00337,Electronics,Accessories,BluePine,32672.25,48123.02,2023-01-25
+P00338,Toys,Puzzles,Quantica,1039.41,1855.16,2023-03-18
+P00339,Beauty,Haircare,Solace,449.67,695.54,2023-09-22
+P00340,Home,Appliances,Veloria,3515.01,4496.23,2023-05-07
+P00341,Electronics,Mobiles,TrueNorth,1718.96,2774.65,2023-03-18
+P00342,Home,Decor,TrueNorth,7904.64,12850.32,2023-08-05
+P00343,Home,Furniture,Skytone,3601.77,5075.66,2023-04-28
+P00344,Fashion,Accessories,UrbanLeaf,1096.19,1826.63,2023-05-13
+P00345,Electronics,Wearables,Everpeak,42445.04,50214.3,2023-01-31
+P00346,Fashion,Menswear,Solace,3355.5,4891.14,2023-05-23
+P00347,Sports,Fitness,Vistaro,5194.28,6420.93,2023-09-11
+P00348,Sports,Equipment,BluePine,892.47,1291.93,2023-06-19
+P00349,Fashion,Footwear,Nimbus,3240.85,4588.1,2023-01-30
+P00350,Books,Fiction,Nimbus,1271.37,1495.97,2023-02-15
+P00351,Fashion,Menswear,Skytone,248.23,349.32,2023-01-18
+P00352,Electronics,Accessories,BluePine,16568.58,28959.57,2023-09-12
+P00353,Toys,Action Figures,Everpeak,485.91,602.86,2023-08-12
+P00354,Electronics,Laptops,Vistaro,46794.38,53840.06,2023-12-01
+P00355,Sports,Outdoor,Solace,4809.81,6873.22,2024-09-25
+P00356,Sports,Athleisure,Quantica,5423.59,9047.44,2023-03-29
+P00357,Home,Kitchen,Skytone,5719.37,8449.15,2023-03-19
+P00358,Grocery,Personal Care,Quantica,931.8,1161.98,2023-01-31
+P00359,Grocery,Beverages,UrbanLeaf,495.62,779.24,2024-05-10
+P00360,Beauty,Fragrance,Everpeak,1888.48,2827.63,2023-01-22
+P00361,Books,Non-Fiction,BluePine,1575.46,2275.49,2023-10-31
+P00362,Grocery,Beverages,Auralis,1271.91,1599.16,2023-05-31
+P00363,Fashion,Menswear,Everpeak,4090.78,4810.3,2023-08-18
+P00364,Electronics,Mobiles,Nimbus,45124.9,57792.45,2024-01-31
+P00365,Sports,Outdoor,Zenbyte,7109.84,11223.79,2023-02-22
+P00366,Grocery,Staples,TrueNorth,608.86,701.3,2023-12-23
+P00367,Toys,Puzzles,Quantica,3436.73,5120.23,2023-03-28
+P00368,Grocery,Personal Care,Zenbyte,126.16,199.78,2023-09-17
+P00369,Toys,Board Games,Zenbyte,3506.88,5488.72,2023-12-19
+P00370,Toys,Puzzles,Quantica,3032.72,4513.83,2023-04-22
+P00371,Electronics,Audio,Skytone,36101.91,54273.86,2023-04-12
+P00372,Toys,Puzzles,Vistaro,500.47,638.3,2023-06-06
+P00373,Beauty,Skincare,Nimbus,1422.3,1762.47,2023-05-30
+P00374,Beauty,Makeup,Auralis,704.21,1143.45,2023-05-13
+P00375,Grocery,Beverages,Skytone,971.89,1169.03,2023-03-20
+P00376,Beauty,Haircare,Veloria,1563.29,2549.02,2023-10-22
+P00377,Grocery,Snacks,Quantica,328.05,484.81,2023-02-25
+P00378,Toys,Board Games,TrueNorth,3355.9,5931.25,2023-06-15
+P00379,Beauty,Skincare,TrueNorth,2608.96,4238.58,2023-09-13
+P00380,Toys,Board Games,UrbanLeaf,2392.25,4244.0,2023-07-01
+P00381,Toys,Board Games,Auralis,2322.42,3872.37,2023-08-10
+P00382,Electronics,Wearables,Everpeak,35622.14,44376.56,2023-04-03
+P00383,Sports,Athleisure,Solace,1442.9,2023.43,2023-05-02
+P00384,Toys,STEM,Zenbyte,4058.55,5983.4,2023-11-05
+P00385,Toys,STEM,Auralis,1274.16,2103.99,2023-07-10
+P00386,Sports,Outdoor,Nimbus,6618.75,8454.81,2023-06-09
+P00387,Beauty,Makeup,BluePine,2645.81,3859.12,2024-05-08
+P00388,Toys,Action Figures,UrbanLeaf,3024.45,5404.9,2023-08-09
+P00389,Beauty,Fragrance,Zenbyte,3532.25,5835.7,2023-03-05
+P00390,Electronics,Audio,TrueNorth,21239.26,26504.99,2023-01-01
+P00391,Beauty,Skincare,Vistaro,1098.4,1250.09,2023-09-12
+P00392,Beauty,Makeup,BluePine,2050.4,2639.38,2023-10-14
+P00393,Sports,Fitness,TrueNorth,5603.89,10040.1,2023-07-25
+P00394,Home,Decor,Skytone,5520.67,7084.48,2023-02-20
+P00395,Electronics,Audio,Everpeak,10396.89,13956.17,2025-08-18
+P00396,Fashion,Accessories,Auralis,166.33,204.1,2023-02-11
+P00397,Toys,Action Figures,Vistaro,3318.3,4345.15,2023-05-03
+P00398,Beauty,Makeup,Skytone,760.87,1019.45,2023-01-22
+P00399,Home,Kitchen,Zenbyte,6896.51,8135.74,2023-11-09
+P00400,Electronics,Wearables,Vistaro,22211.35,34646.2,2023-04-19
+P00401,Toys,Board Games,Everpeak,2018.72,2381.72,2023-05-29
+P00402,Toys,Action Figures,Everpeak,2292.55,3159.84,2023-09-27
+P00403,Grocery,Personal Care,Solace,1057.98,1673.38,2023-02-01
+P00404,Toys,STEM,TrueNorth,3233.93,3789.05,2023-08-26
+P00405,Toys,STEM,Nimbus,1993.48,2383.76,2024-02-01
+P00406,Books,Non-Fiction,Everpeak,1215.3,1592.92,2023-01-07
+P00407,Grocery,Staples,Veloria,631.58,1097.76,2023-07-01
+P00408,Electronics,Laptops,Vistaro,48713.52,58341.56,2023-06-18
+P00409,Electronics,Accessories,TrueNorth,34049.91,48190.32,2023-01-20
+P00410,Beauty,Makeup,TrueNorth,2414.05,3559.88,2023-09-18
+P00411,Grocery,Personal Care,Auralis,959.96,1534.36,2023-08-06
+P00412,Books,Comics,BluePine,490.64,657.16,2023-10-27
+P00413,Fashion,Accessories,Zenbyte,4078.84,4776.45,2023-06-03
+P00414,Sports,Outdoor,Skytone,3187.44,3956.51,2023-05-21
+P00415,Toys,Puzzles,Vistaro,3240.23,3695.62,2023-10-31
+P00416,Toys,Board Games,UrbanLeaf,2776.77,4946.31,2023-02-09
+P00417,Toys,Action Figures,UrbanLeaf,2681.96,3628.13,2023-03-23
+P00418,Electronics,Laptops,Vistaro,21508.26,34589.56,2023-01-05
+P00419,Books,Non-Fiction,Skytone,1487.79,2428.09,2023-10-06
+P00420,Sports,Equipment,UrbanLeaf,6912.2,9196.53,2023-10-06
+P00421,Fashion,Accessories,Zenbyte,1199.82,2056.5,2023-02-09
+P00422,Home,Kitchen,UrbanLeaf,3209.33,4597.51,2023-03-18
+P00423,Sports,Athleisure,Zenbyte,3776.62,5263.58,2024-01-24
+P00424,Fashion,Accessories,Nimbus,2061.66,2711.32,2023-02-26
+P00425,Fashion,Menswear,Skytone,1534.35,2161.64,2023-10-02
+P00426,Fashion,Footwear,Quantica,630.19,781.03,2023-04-06
+P00427,Fashion,Womenswear,Quantica,1448.83,1929.91,2023-11-12
+P00428,Sports,Fitness,Nimbus,2923.65,4092.61,2023-07-15
+P00429,Sports,Outdoor,Everpeak,1939.09,3016.49,2023-06-08
+P00430,Beauty,Makeup,Auralis,1693.5,2763.67,2023-02-25
+P00431,Books,Fiction,Skytone,1546.37,2225.46,2023-07-07
+P00432,Beauty,Haircare,Veloria,3215.19,5269.09,2023-07-04
+P00433,Electronics,Wearables,Vistaro,33579.02,45561.48,2023-06-08
+P00434,Grocery,Snacks,Quantica,145.44,171.04,2023-12-20
+P00435,Grocery,Personal Care,TrueNorth,137.1,166.36,2023-11-14
+P00436,Books,Self-Help,Nimbus,120.14,152.69,2023-06-25
+P00437,Beauty,Skincare,Nimbus,2265.56,3633.38,2023-05-22
+P00438,Grocery,Snacks,UrbanLeaf,668.41,1043.33,2023-05-19
+P00439,Electronics,Mobiles,Skytone,21654.64,37096.73,2023-04-13
+P00440,Beauty,Fragrance,TrueNorth,2111.81,2402.98,2023-07-10
+P00441,Grocery,Staples,TrueNorth,77.11,108.06,2023-11-23
+P00442,Toys,Action Figures,Quantica,2663.4,3367.04,2023-11-05
+P00443,Home,Kitchen,Vistaro,2721.39,4264.84,2023-07-08
+P00444,Electronics,Audio,Nimbus,6652.92,11444.78,2023-02-14
+P00445,Grocery,Staples,Everpeak,1737.35,1979.69,2023-03-03
+P00446,Fashion,Menswear,Solace,1014.86,1159.33,2023-09-21
+P00447,Sports,Equipment,Skytone,5203.69,8413.08,2023-03-01
+P00448,Beauty,Haircare,Solace,1821.43,2749.36,2023-04-26
+P00449,Grocery,Beverages,UrbanLeaf,945.67,1409.79,2023-01-25
+P00450,Books,Comics,TrueNorth,1275.01,1985.45,2023-08-02
+P00451,Books,Fiction,Veloria,407.23,514.47,2023-04-10
+P00452,Fashion,Menswear,Quantica,1242.37,1543.66,2023-11-24
+P00453,Fashion,Womenswear,Zenbyte,2262.9,3263.51,2023-02-21
+P00454,Sports,Fitness,UrbanLeaf,9019.91,11041.5,2023-11-13
+P00455,Electronics,Mobiles,Vistaro,37155.67,58050.35,2025-09-15
+P00456,Grocery,Personal Care,Skytone,1066.51,1319.55,2023-02-15
+P00457,Sports,Outdoor,TrueNorth,3596.07,4097.4,2023-08-17
+P00458,Toys,Board Games,Nimbus,1051.95,1721.71,2023-03-30
+P00459,Toys,STEM,BluePine,1660.25,2957.75,2023-02-25
+P00460,Home,Decor,Nimbus,6877.38,10902.44,2023-02-19
+P00461,Beauty,Fragrance,Skytone,2355.09,3080.83,2023-10-23
+P00462,Fashion,Menswear,UrbanLeaf,2304.63,3187.92,2023-10-30
+P00463,Books,Self-Help,Everpeak,443.57,702.62,2024-02-06
+P00464,Home,Appliances,Auralis,8212.1,13215.74,2023-04-15
+P00465,Sports,Outdoor,Nimbus,8896.16,11787.15,2023-07-23
+P00466,Electronics,Wearables,Auralis,6078.03,10922.84,2023-09-01
+P00467,Electronics,Audio,Zenbyte,39114.67,45572.59,2023-10-16
+P00468,Electronics,Laptops,TrueNorth,30823.18,46821.32,2023-03-11
+P00469,Toys,Action Figures,Solace,2543.06,3014.69,2023-05-08
+P00470,Home,Furniture,Auralis,2970.64,3884.21,2023-02-05
+P00471,Fashion,Womenswear,BluePine,1114.79,1304.26,2024-05-19
+P00472,Electronics,Mobiles,BluePine,24366.69,32529.03,2023-06-03
+P00473,Toys,Action Figures,Everpeak,2202.66,3825.52,2023-02-09
+P00474,Grocery,Staples,Zenbyte,349.49,626.33,2023-04-03
+P00475,Books,Self-Help,TrueNorth,168.77,203.02,2023-01-06
+P00476,Toys,STEM,Veloria,4681.38,5941.05,2024-05-29
+P00477,Home,Kitchen,Everpeak,10189.54,14939.53,2023-01-07
+P00478,Books,Comics,Nimbus,246.42,341.74,2023-04-15
+P00479,Toys,Action Figures,Veloria,2717.33,3696.14,2024-06-27
+P00480,Electronics,Mobiles,Solace,21343.57,32782.27,2024-03-29
+P00481,Fashion,Accessories,Veloria,727.78,904.99,2023-01-23
+P00482,Toys,Action Figures,Everpeak,687.3,966.88,2023-03-19
+P00483,Fashion,Menswear,Quantica,1240.07,2231.23,2023-02-04
+P00484,Books,Fiction,UrbanLeaf,1204.04,1420.91,2023-03-18
+P00485,Grocery,Staples,BluePine,612.27,1078.68,2023-04-10
+P00486,Sports,Outdoor,Auralis,796.58,1059.41,2023-02-01
+P00487,Grocery,Personal Care,Nimbus,336.99,498.48,2023-01-14
+P00488,Sports,Outdoor,Skytone,3894.9,5737.27,2023-04-20
+P00489,Electronics,Wearables,Auralis,1452.9,2618.89,2023-04-02
+P00490,Home,Decor,Solace,9073.5,11745.08,2023-05-09
+P00491,Toys,STEM,Quantica,1857.97,2422.51,2023-01-05
+P00492,Fashion,Accessories,UrbanLeaf,1130.77,1928.1,2023-08-23
+P00493,Home,Decor,BluePine,1669.64,2437.72,2024-03-21
+P00494,Grocery,Beverages,Vistaro,1175.83,1415.07,2024-02-09
+P00495,Toys,Puzzles,Zenbyte,1397.54,1914.03,2023-05-30
+P00496,Grocery,Beverages,BluePine,978.23,1708.49,2024-06-14
+P00497,Home,Appliances,UrbanLeaf,240.06,416.93,2023-01-12
+P00498,Toys,STEM,Auralis,1210.49,1704.78,2023-05-11
+P00499,Fashion,Footwear,Zenbyte,2239.41,3102.61,2024-06-28
+P00500,Fashion,Menswear,Zenbyte,1069.58,1354.63,2024-05-21
+P00501,Fashion,Footwear,Nimbus,385.82,568.35,2023-08-17
+P00502,Sports,Outdoor,BluePine,4045.26,6214.84,2023-02-07
+P00503,Fashion,Accessories,Auralis,3579.16,4292.63,2023-04-13
+P00504,Beauty,Haircare,UrbanLeaf,413.23,590.26,2023-08-10
+P00505,Grocery,Snacks,Vistaro,1199.14,1885.38,2023-06-05
+P00506,Home,Decor,TrueNorth,10116.46,14009.47,2023-06-14
+P00507,Grocery,Staples,Zenbyte,902.87,1212.39,2023-12-31
+P00508,Home,Appliances,Quantica,2106.1,3022.09,2023-09-14
+P00509,Toys,Puzzles,Everpeak,3199.37,5438.26,2023-05-23
+P00510,Fashion,Menswear,UrbanLeaf,2465.05,3287.17,2023-05-07
+P00511,Grocery,Personal Care,Everpeak,1041.03,1817.22,2024-03-27
+P00512,Home,Decor,Nimbus,1399.2,2334.05,2024-08-15
+P00513,Beauty,Makeup,Quantica,1604.34,2263.31,2023-10-30
+P00514,Books,Non-Fiction,Skytone,812.15,1470.88,2023-05-02
+P00515,Fashion,Footwear,Vistaro,2243.06,3626.93,2023-05-17
+P00516,Home,Furniture,BluePine,9025.38,12897.66,2023-04-17
+P00517,Home,Furniture,Everpeak,1414.08,1885.01,2023-09-22
+P00518,Toys,Board Games,Quantica,4414.71,5539.53,2023-03-29
+P00519,Books,Comics,UrbanLeaf,333.73,511.81,2024-10-06
+P00520,Fashion,Footwear,Everpeak,2216.16,3276.57,2023-06-11
+P00521,Sports,Athleisure,Quantica,853.37,1334.93,2023-07-04
+P00522,Grocery,Staples,Vistaro,781.68,1339.88,2023-11-03
+P00523,Toys,Board Games,Nimbus,2708.47,4718.35,2025-07-08
+P00524,Books,Self-Help,UrbanLeaf,1279.62,1516.01,2023-05-03
+P00525,Home,Decor,Skytone,10343.74,11877.74,2023-01-12
+P00526,Beauty,Haircare,TrueNorth,346.76,542.87,2023-05-20
+P00527,Electronics,Laptops,Vistaro,19506.43,23080.53,2023-09-21
+P00528,Electronics,Laptops,Everpeak,16070.48,20279.66,2023-07-31
+P00529,Electronics,Audio,Nimbus,26007.46,34202.14,2023-07-25
+P00530,Beauty,Makeup,Vistaro,1072.74,1736.65,2023-02-22
+P00531,Books,Fiction,Veloria,325.37,523.27,2023-09-04
+P00532,Electronics,Mobiles,Vistaro,10254.85,12184.38,2023-12-31
+P00533,Beauty,Skincare,Vistaro,3623.1,4693.1,2023-08-03
+P00534,Home,Appliances,BluePine,1514.54,2125.15,2023-01-04
+P00535,Grocery,Personal Care,Quantica,695.89,813.62,2023-05-09
+P00536,Toys,Board Games,Nimbus,1919.07,2616.84,2023-01-10
+P00537,Beauty,Haircare,Skytone,1428.06,2265.46,2023-04-03
+P00538,Books,Non-Fiction,Nimbus,1387.76,1830.65,2023-04-21
+P00539,Grocery,Staples,Vistaro,650.98,1149.59,2023-01-24
+P00540,Fashion,Menswear,Quantica,243.21,357.99,2024-08-18
+P00541,Books,Non-Fiction,Auralis,1783.17,2475.85,2023-05-07
+P00542,Home,Decor,Veloria,6813.82,9780.97,2023-07-21
+P00543,Electronics,Mobiles,Veloria,33351.98,52628.97,2023-05-18
+P00544,Grocery,Snacks,UrbanLeaf,635.91,950.64,2023-05-02
+P00545,Sports,Fitness,BluePine,4946.86,5656.02,2023-02-08
+P00546,Home,Appliances,Nimbus,4552.46,7481.15,2023-03-07
+P00547,Fashion,Accessories,Everpeak,2075.3,2708.69,2023-01-23
+P00548,Home,Decor,UrbanLeaf,8602.81,14386.99,2023-01-17
+P00549,Grocery,Personal Care,Vistaro,1112.43,1453.59,2025-11-19
+P00550,Electronics,Mobiles,Veloria,15375.59,19190.31,2023-06-17
+P00551,Home,Decor,Nimbus,10268.2,12576.35,2023-09-05
+P00552,Sports,Outdoor,Solace,587.4,1018.46,2023-01-17
+P00553,Beauty,Makeup,Everpeak,3947.93,5498.25,2023-04-29
+P00554,Fashion,Womenswear,Vistaro,2694.99,4871.87,2023-07-30
+P00555,Sports,Athleisure,Vistaro,1274.28,1787.3,2023-05-31
+P00556,Books,Comics,BluePine,940.49,1358.95,2023-01-04
+P00557,Toys,Board Games,Zenbyte,2780.0,4310.68,2023-01-25
+P00558,Grocery,Snacks,Vistaro,804.6,1161.97,2023-08-18
+P00559,Electronics,Laptops,Nimbus,4373.3,6495.76,2023-03-07
+P00560,Books,Non-Fiction,BluePine,838.15,1341.46,2023-09-02
+P00561,Beauty,Makeup,BluePine,579.15,845.58,2024-11-26
+P00562,Sports,Equipment,Solace,1277.41,2134.2,2023-08-31
+P00563,Electronics,Mobiles,BluePine,36813.06,46779.19,2023-03-09
+P00564,Sports,Outdoor,Vistaro,8298.01,10900.43,2023-01-14
+P00565,Electronics,Accessories,Auralis,30729.74,36634.91,2023-11-15
+P00566,Electronics,Wearables,Everpeak,23087.21,39042.17,2023-11-04
+P00567,Toys,Board Games,Zenbyte,607.82,805.86,2023-10-25
+P00568,Beauty,Fragrance,Nimbus,1448.93,2591.45,2023-09-24
+P00569,Toys,Board Games,Quantica,141.9,240.67,2023-01-22
+P00570,Grocery,Staples,Everpeak,206.6,324.02,2024-02-05
+P00571,Electronics,Audio,Nimbus,25795.31,32876.45,2023-03-28
+P00572,Sports,Fitness,Skytone,3329.56,4311.81,2023-02-25
+P00573,Toys,STEM,BluePine,2163.52,3711.87,2023-03-15
+P00574,Electronics,Wearables,UrbanLeaf,7493.58,12421.62,2023-09-28
+P00575,Grocery,Staples,Vistaro,1539.44,1865.13,2023-02-01
+P00576,Sports,Outdoor,Everpeak,4493.28,6634.72,2023-05-11
+P00577,Sports,Equipment,Vistaro,5995.96,7307.91,2023-05-11
+P00578,Electronics,Audio,Solace,29487.1,39998.41,2023-08-16
+P00579,Sports,Outdoor,BluePine,4295.29,5578.94,2023-03-14
+P00580,Grocery,Snacks,TrueNorth,742.62,851.26,2023-08-09
+P00581,Toys,STEM,Solace,3886.49,5093.87,2023-01-10
+P00582,Toys,STEM,Quantica,4696.53,5922.64,2023-01-28
+P00583,Home,Furniture,Quantica,3649.27,5735.36,2023-03-11
+P00584,Electronics,Wearables,Quantica,26089.53,35120.14,2023-01-26
+P00585,Beauty,Fragrance,Quantica,1334.25,2082.18,2023-07-09
+P00586,Sports,Fitness,Nimbus,1405.54,1701.41,2023-07-24
+P00587,Sports,Equipment,Everpeak,7506.77,9816.96,2023-06-30
+P00588,Home,Furniture,Nimbus,2182.86,2808.46,2023-01-05
+P00589,Beauty,Makeup,Everpeak,3472.47,4644.41,2023-12-05
+P00590,Electronics,Accessories,TrueNorth,26043.62,42939.82,2023-03-09
+P00591,Grocery,Snacks,BluePine,229.84,410.96,2023-09-10
+P00592,Toys,STEM,Auralis,4403.86,5029.15,2023-03-29
+P00593,Sports,Outdoor,Solace,7680.67,8990.96,2023-06-17
+P00594,Electronics,Audio,Zenbyte,23254.03,26600.76,2023-02-23
+P00595,Books,Fiction,Nimbus,690.71,819.26,2023-07-19
+P00596,Sports,Outdoor,Solace,2472.42,3136.06,2024-04-02
+P00597,Home,Kitchen,UrbanLeaf,5379.32,7166.71,2023-09-15
+P00598,Home,Decor,Solace,11917.81,13671.32,2023-04-29
+P00599,Grocery,Personal Care,Auralis,961.63,1241.02,2023-10-24
+P00600,Beauty,Skincare,Everpeak,3317.13,5833.14,2023-03-03
+P00601,Fashion,Womenswear,Veloria,725.58,1286.42,2023-05-03
+P00602,Beauty,Fragrance,Skytone,885.02,1368.54,2023-03-08
+P00603,Beauty,Skincare,Zenbyte,1010.64,1713.39,2023-02-05
+P00604,Fashion,Footwear,Solace,402.78,509.09,2023-07-06
+P00605,Home,Furniture,Solace,1527.99,2109.39,2023-07-17
+P00606,Sports,Fitness,UrbanLeaf,8226.56,10230.22,2023-12-07
+P00607,Home,Kitchen,Quantica,2464.55,3753.12,2023-04-23
+P00608,Grocery,Beverages,Solace,176.3,273.63,2023-02-19
+P00609,Sports,Athleisure,Vistaro,1802.68,2366.49,2023-07-31
+P00610,Beauty,Skincare,Vistaro,1244.56,1518.88,2023-01-03
+P00611,Toys,Puzzles,Solace,2148.51,2909.11,2023-02-23
+P00612,Toys,Action Figures,Solace,342.5,463.87,2023-11-07
+P00613,Toys,Puzzles,Skytone,2583.03,4334.4,2023-01-02
+P00614,Books,Non-Fiction,Nimbus,1857.78,2421.09,2025-07-18
+P00615,Fashion,Footwear,Skytone,1023.26,1412.57,2023-03-29
+P00616,Sports,Fitness,Skytone,2686.57,4462.4,2023-10-02
+P00617,Home,Appliances,Nimbus,10084.93,14884.63,2023-05-05
+P00618,Home,Decor,BluePine,895.09,1624.09,2023-06-10
+P00619,Books,Non-Fiction,Solace,1339.5,1796.12,2023-06-08
+P00620,Fashion,Menswear,Auralis,3897.99,4724.37,2023-03-11
+P00621,Toys,Board Games,Zenbyte,643.03,1039.55,2023-01-13
+P00622,Grocery,Beverages,Everpeak,163.47,209.18,2023-05-25
+P00623,Fashion,Menswear,Solace,1860.31,2150.12,2024-09-23
+P00624,Books,Self-Help,Veloria,1882.27,2389.24,2023-09-20
+P00625,Books,Comics,UrbanLeaf,1210.18,1509.65,2023-03-02
+P00626,Home,Decor,Quantica,5577.18,7519.95,2023-03-10
+P00627,Sports,Equipment,Auralis,7029.37,9747.89,2023-08-01
+P00628,Electronics,Accessories,Auralis,8850.32,12572.5,2023-03-18
+P00629,Home,Kitchen,Zenbyte,5002.44,8038.28,2023-10-20
+P00630,Beauty,Makeup,BluePine,1446.4,2222.19,2024-07-21
+P00631,Home,Kitchen,BluePine,7892.52,9497.34,2023-08-16
+P00632,Sports,Outdoor,UrbanLeaf,904.52,1527.38,2023-05-26
+P00633,Home,Furniture,Auralis,5134.03,5961.57,2023-04-06
+P00634,Beauty,Makeup,Veloria,4744.08,5433.76,2023-05-09
+P00635,Home,Appliances,Quantica,10486.85,13988.02,2023-04-22
+P00636,Home,Appliances,TrueNorth,6403.14,8804.83,2023-02-06
+P00637,Toys,Action Figures,Zenbyte,175.49,258.55,2024-05-22
+P00638,Grocery,Personal Care,Vistaro,208.6,257.41,2023-04-03
+P00639,Electronics,Audio,Veloria,38616.87,48811.42,2024-03-03
+P00640,Electronics,Accessories,Skytone,2685.14,4715.04,2023-06-14
+P00641,Grocery,Personal Care,TrueNorth,1012.53,1334.62,2023-11-01
+P00642,Fashion,Accessories,UrbanLeaf,863.44,999.52,2023-04-11
+P00643,Fashion,Menswear,Auralis,2711.33,4297.74,2023-05-26
+P00644,Toys,STEM,BluePine,2927.47,3497.01,2024-01-03
+P00645,Toys,STEM,Auralis,3153.44,4753.71,2023-05-06
+P00646,Home,Decor,UrbanLeaf,8540.59,14477.55,2023-07-26
+P00647,Fashion,Womenswear,UrbanLeaf,1341.72,1984.64,2023-06-21
+P00648,Sports,Athleisure,Skytone,3825.94,4912.63,2023-04-15
+P00649,Beauty,Skincare,UrbanLeaf,2590.96,3507.38,2023-03-03
+P00650,Sports,Fitness,TrueNorth,6484.77,9203.27,2023-01-15
+P00651,Sports,Fitness,Skytone,2710.17,4609.3,2023-10-09
+P00652,Toys,Action Figures,Zenbyte,1164.18,2040.99,2023-01-16
+P00653,Beauty,Fragrance,Everpeak,4612.33,5773.22,2023-01-02
+P00654,Sports,Equipment,UrbanLeaf,4093.7,5375.55,2023-06-04
+P00655,Home,Decor,Skytone,7231.54,12012.56,2023-04-13
+P00656,Toys,Action Figures,Vistaro,2214.55,2664.6,2023-01-10
+P00657,Electronics,Wearables,Skytone,33500.2,39011.08,2023-09-22
+P00658,Books,Comics,Solace,1153.99,1416.86,2023-06-05
+P00659,Home,Decor,UrbanLeaf,2198.35,2990.07,2023-11-18
+P00660,Home,Kitchen,Skytone,5891.46,7090.21,2023-09-15
+P00661,Beauty,Fragrance,Skytone,790.64,1242.6,2023-05-11
+P00662,Electronics,Audio,Veloria,16799.03,28043.89,2023-09-04
+P00663,Grocery,Personal Care,Quantica,89.32,114.18,2024-02-14
+P00664,Beauty,Haircare,Zenbyte,180.06,257.21,2023-09-18
+P00665,Electronics,Wearables,Quantica,23826.55,37878.58,2023-09-16
+P00666,Fashion,Menswear,BluePine,2144.36,3521.75,2023-07-27
+P00667,Electronics,Laptops,Solace,18136.79,25041.48,2023-09-10
+P00668,Grocery,Personal Care,Solace,1389.75,1758.8,2023-03-25
+P00669,Sports,Outdoor,UrbanLeaf,7710.69,11189.65,2023-02-09
+P00670,Toys,Board Games,Quantica,2230.23,4032.62,2023-12-13
+P00671,Electronics,Laptops,Zenbyte,36612.62,45125.86,2024-02-22
+P00672,Books,Comics,BluePine,812.7,1385.6,2023-03-22
+P00673,Toys,Puzzles,Vistaro,370.86,513.0,2023-03-04
+P00674,Fashion,Accessories,Zenbyte,2049.63,3633.1,2023-08-23
+P00675,Grocery,Staples,TrueNorth,1299.94,1779.52,2023-10-23
+P00676,Toys,STEM,Auralis,3279.85,5081.8,2023-05-22
+P00677,Home,Furniture,Everpeak,6164.06,9500.23,2023-02-28
+P00678,Electronics,Laptops,Solace,27674.18,48860.39,2023-05-06
+P00679,Beauty,Fragrance,Solace,2707.11,4251.24,2023-08-06
+P00680,Electronics,Mobiles,Solace,19737.05,33506.23,2023-04-30
+P00681,Beauty,Skincare,TrueNorth,305.13,507.45,2023-08-13
+P00682,Electronics,Accessories,Vistaro,42699.78,51181.63,2023-01-07
+P00683,Sports,Equipment,Skytone,9336.75,11232.18,2023-11-28
+P00684,Toys,STEM,TrueNorth,3208.53,4965.78,2023-01-29
+P00685,Toys,STEM,Everpeak,2378.25,4054.28,2023-04-21
+P00686,Books,Fiction,Skytone,823.21,1121.76,2023-01-18
+P00687,Sports,Fitness,Quantica,6368.68,10736.7,2026-05-19
+P00688,Beauty,Haircare,TrueNorth,2258.72,3573.32,2023-02-15
+P00689,Sports,Fitness,Auralis,5397.98,8110.09,2024-04-07
+P00690,Electronics,Accessories,Zenbyte,28573.12,50101.37,2024-02-11
+P00691,Beauty,Haircare,Solace,4494.02,5231.86,2024-01-10
+P00692,Fashion,Footwear,Vistaro,2350.8,3115.9,2023-01-12
+P00693,Sports,Fitness,UrbanLeaf,6350.1,8228.78,2023-05-07
+P00694,Beauty,Skincare,UrbanLeaf,2396.44,4138.11,2023-12-16
+P00695,Books,Self-Help,Everpeak,909.13,1208.9,2023-02-24
+P00696,Books,Comics,Nimbus,864.61,1025.2,2024-12-09
+P00697,Toys,STEM,Solace,2938.6,3507.42,2023-03-29
+P00698,Home,Appliances,Nimbus,5873.63,8341.48,2023-01-08
+P00699,Fashion,Footwear,Nimbus,3759.43,4764.04,2023-01-04
+P00700,Toys,Action Figures,Veloria,411.19,597.2,2023-01-30
+P00701,Books,Fiction,Auralis,187.21,248.05,2023-07-14
+P00702,Fashion,Womenswear,Quantica,572.22,736.83,2023-04-19
+P00703,Electronics,Laptops,Quantica,7720.62,10828.42,2023-01-18
+P00704,Beauty,Skincare,Solace,299.06,422.13,2023-02-26
+P00705,Books,Comics,UrbanLeaf,276.9,374.13,2024-05-08
+P00706,Home,Furniture,Solace,6686.1,10945.63,2024-02-16
+P00707,Home,Decor,TrueNorth,9169.19,14597.63,2023-07-07
+P00708,Electronics,Audio,Zenbyte,18760.8,22877.41,2023-08-21
+P00709,Fashion,Menswear,Solace,3611.27,4975.76,2023-09-15
+P00710,Home,Appliances,Skytone,5588.38,7577.86,2023-04-16
+P00711,Books,Fiction,BluePine,1013.82,1335.87,2023-10-04
+P00712,Home,Furniture,Quantica,7741.78,13151.8,2023-02-21
+P00713,Fashion,Accessories,TrueNorth,3453.07,4500.36,2023-03-16
+P00714,Beauty,Fragrance,UrbanLeaf,3430.77,4401.52,2023-01-11
+P00715,Electronics,Accessories,TrueNorth,14993.01,23356.64,2023-03-21
+P00716,Books,Non-Fiction,Skytone,1078.96,1629.46,2023-09-22
+P00717,Home,Decor,Nimbus,9943.95,13487.82,2023-02-06
+P00718,Toys,Board Games,Vistaro,1486.36,2015.72,2023-09-08
+P00719,Grocery,Staples,Everpeak,58.64,75.59,2023-10-30
+P00720,Beauty,Haircare,Auralis,2601.69,4074.52,2023-12-01
+P00721,Fashion,Womenswear,Everpeak,2593.02,3959.53,2023-04-26
+P00722,Fashion,Footwear,TrueNorth,3406.53,4921.27,2023-02-15
+P00723,Books,Non-Fiction,BluePine,545.71,838.11,2024-06-01
+P00724,Home,Furniture,UrbanLeaf,2496.38,2927.19,2024-03-02
+P00725,Sports,Equipment,Zenbyte,8683.64,11008.75,2023-04-05
+P00726,Beauty,Fragrance,Auralis,3093.82,4012.1,2024-02-24
+P00727,Sports,Fitness,Zenbyte,1352.09,1558.67,2023-02-16
+P00728,Electronics,Laptops,Skytone,15368.22,18236.14,2023-01-14
+P00729,Books,Fiction,Everpeak,1590.2,1925.68,2024-05-05
+P00730,Home,Furniture,Veloria,3760.91,5709.6,2023-02-21
+P00731,Books,Fiction,Skytone,493.43,714.76,2023-06-14
+P00732,Home,Kitchen,Everpeak,7307.29,11600.32,2023-08-11
+P00733,Toys,Puzzles,TrueNorth,1627.81,2777.41,2023-07-14
+P00734,Home,Kitchen,Vistaro,9056.29,14855.92,2023-01-10
+P00735,Fashion,Footwear,Skytone,1202.03,1738.85,2023-09-13
+P00736,Fashion,Footwear,BluePine,1763.44,2841.62,2023-03-08
+P00737,Toys,Board Games,TrueNorth,1056.97,1225.89,2023-06-20
+P00738,Sports,Athleisure,Zenbyte,6454.4,8356.61,2023-07-10
+P00739,Electronics,Laptops,Everpeak,3855.93,4551.2,2023-08-30
+P00740,Home,Decor,Zenbyte,3760.21,5710.62,2023-12-23
+P00741,Sports,Fitness,TrueNorth,8458.78,10275.68,2023-05-14
+P00742,Home,Kitchen,TrueNorth,6925.86,11088.72,2023-11-04
+P00743,Home,Decor,Auralis,2983.41,3654.06,2023-06-28
+P00744,Grocery,Beverages,BluePine,1158.25,1495.12,2023-01-23
+P00745,Sports,Outdoor,Solace,6784.58,8685.93,2023-02-06
+P00746,Home,Appliances,Vistaro,1918.11,2471.54,2023-06-29
+P00747,Electronics,Audio,Everpeak,19617.36,22466.53,2023-01-21
+P00748,Toys,Puzzles,TrueNorth,1224.88,1849.44,2023-01-21
+P00749,Grocery,Personal Care,Auralis,960.86,1143.28,2023-02-17
+P00750,Beauty,Skincare,Skytone,992.75,1157.3,2023-08-11
+P00751,Toys,Puzzles,Everpeak,1733.0,2860.91,2023-01-21
+P00752,Toys,STEM,Zenbyte,776.29,996.69,2023-10-18
+P00753,Electronics,Laptops,Zenbyte,14447.53,19386.89,2023-03-13
+P00754,Beauty,Fragrance,Skytone,353.0,619.31,2023-06-09
+P00755,Beauty,Fragrance,UrbanLeaf,3153.87,4758.82,2023-05-25
+P00756,Fashion,Womenswear,UrbanLeaf,421.08,630.46,2023-02-03
+P00757,Grocery,Personal Care,Vistaro,576.95,858.05,2023-11-01
+P00758,Beauty,Skincare,UrbanLeaf,2737.28,4157.51,2023-02-02
+P00759,Beauty,Skincare,Quantica,1883.07,2174.85,2023-09-12
+P00760,Sports,Equipment,Everpeak,9074.3,11445.26,2023-01-19
+P00761,Beauty,Makeup,Auralis,1751.3,2932.08,2023-06-10
+P00762,Sports,Outdoor,Vistaro,473.2,847.29,2023-12-19
+P00763,Home,Furniture,Skytone,1286.6,2234.43,2023-04-30
+P00764,Beauty,Skincare,Nimbus,1692.69,2325.6,2023-12-26
+P00765,Books,Self-Help,Zenbyte,1462.57,1699.78,2024-09-24
+P00766,Electronics,Wearables,Auralis,6431.78,10145.37,2023-07-22
+P00767,Sports,Outdoor,Skytone,2054.27,2494.08,2024-02-13
+P00768,Toys,Action Figures,Quantica,1729.84,2605.22,2023-05-21
+P00769,Home,Kitchen,Solace,7934.65,10992.1,2023-03-09
+P00770,Toys,Board Games,Quantica,1357.52,2275.79,2023-05-07
+P00771,Home,Kitchen,Zenbyte,1964.93,3437.71,2023-11-15
+P00772,Electronics,Accessories,Vistaro,2617.72,4756.47,2023-08-26
+P00773,Books,Self-Help,Everpeak,422.22,526.63,2023-08-24
+P00774,Books,Fiction,Nimbus,1588.17,1982.44,2023-03-01
+P00775,Grocery,Snacks,Skytone,442.97,648.89,2023-02-07
+P00776,Electronics,Wearables,Everpeak,4984.25,7598.23,2023-10-30
+P00777,Electronics,Mobiles,Everpeak,23409.33,30804.37,2023-04-24
+P00778,Toys,Action Figures,TrueNorth,1364.19,2422.19,2023-10-20
+P00779,Books,Comics,Vistaro,481.31,639.0,2023-06-07
+P00780,Beauty,Makeup,Veloria,2710.44,3735.97,2023-11-29
+P00781,Beauty,Fragrance,TrueNorth,3310.06,4640.5,2024-01-21
+P00782,Home,Appliances,Auralis,7066.23,11341.02,2024-09-18
+P00783,Sports,Equipment,Zenbyte,2705.68,3417.66,2024-03-15
+P00784,Electronics,Mobiles,UrbanLeaf,26802.79,46675.24,2023-01-14
+P00785,Toys,Puzzles,Zenbyte,3181.26,3822.38,2023-05-21
+P00786,Toys,Board Games,Quantica,888.94,1061.12,2023-01-03
+P00787,Toys,Action Figures,Vistaro,2921.89,3836.9,2023-01-23
+P00788,Beauty,Haircare,Quantica,1680.31,2038.6,2024-07-22
+P00789,Electronics,Wearables,TrueNorth,15565.48,20220.29,2024-01-02
+P00790,Home,Kitchen,Zenbyte,6341.52,9822.01,2023-07-22
+P00791,Toys,Puzzles,Vistaro,4614.66,5685.25,2025-06-21
+P00792,Books,Fiction,Auralis,1441.73,2102.75,2023-08-06
+P00793,Beauty,Skincare,Nimbus,3396.12,3945.63,2023-02-19
+P00794,Home,Decor,Everpeak,10156.36,14433.62,2023-04-06
+P00795,Beauty,Skincare,Solace,3257.39,4607.93,2023-01-03
+P00796,Grocery,Personal Care,UrbanLeaf,948.4,1485.66,2023-02-06
+P00797,Beauty,Haircare,Quantica,4632.28,5746.46,2023-05-03
+P00798,Sports,Athleisure,Veloria,1118.34,1642.41,2023-04-05
+P00799,Books,Self-Help,Solace,594.93,979.96,2023-01-02

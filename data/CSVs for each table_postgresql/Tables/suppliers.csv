@@ -1,0 +1,17 @@
+supplier_id,supplier_name,lead_time_days,rating
+S000,Auralis Supply Co.,10,4.88
+S001,Zenbyte Supply Co.,10,4.31
+S002,Nimbus Supply Co.,13,3.43
+S003,Quantica Supply Co.,11,4.19
+S004,Everpeak Supply Co.,11,3.96
+S005,Solace Supply Co.,7,4.27
+S006,Skytone Supply Co.,14,4.63
+S007,UrbanLeaf Supply Co.,8,3.53
+S008,TrueNorth Supply Co.,4,4.86
+S009,Vistaro Supply Co.,7,4.04
+S010,Veloria Supply Co.,13,3.39
+S011,BluePine Supply Co.,14,4.07
+S012,OmniGlobal,6,4.08
+S013,Novaluxe,7,4.42
+S014,Rivertrail Logistics,8,3.24
+S015,GreenSprout Imports,9,3.52
